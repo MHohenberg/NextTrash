@@ -15,19 +15,39 @@
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from datetime import date
+from ics import Calendar, Event
 import os
+import configparser
 import arrow
 
-print("Die nächsten Abfuhrtermine\n");
 
-present = arrow.utcnow();
-earliest_betty = present.shift(years = 1);
-earliest_restmuell = present.shift(years = 1);
-earliest_grueneTonneAltpapier = present.shift(years = 1);
-earliest_grueneTonneLeichtverpackungen = present.shift(years = 1);
+class AbfallTyp:
+	name = ""
+	datum = arrow.utcnow().shift(years = 1)
+	everChanged = False
 
-icsfile = open(os.path.expanduser('~')+"/.nexttrash/termine.ics")
+	def __init__(self, name):
+		self.name = name
+
+	def neuesDatum(self, datum):
+		if datum < self.datum:
+			self.everChanged = True
+			self.datum = datum
+
+
+configdir = os.path.expanduser('~')+"/.nexttrash"
+config = configparser.ConfigParser()
+config.read(configdir+"/config.ini")
+maxLength = 0
+
+typDefinitionen = []
+for typdef in config['Abfallwirtschaft_Hohenlohekreis']['types'].split(','):
+	if (len(typdef) > maxLength):
+		maxLength = len(typdef)
+	typDefinitionen.append(AbfallTyp(typdef));
+
+present = arrow.utcnow()
+icsfile = open(configdir+"/termine.ics")
 icscontents = icsfile.read()
 icsfile.close()
 
@@ -35,21 +55,14 @@ c = Calendar(icscontents)
 
 for e in c.events:
 	if (e.begin > arrow.utcnow()):
-		if ("BETty" in e.name):
-			if (e.begin < earliest_betty):
-				earliest_betty = e.begin;
-		if ("Restmüll" in e.name):
-			if (e.begin < earliest_restmuell):
-				earliest_restmuell = e.begin;
-		if ("Altpapier" in e.name):
-			if (e.begin < earliest_grueneTonneAltpapier):
-				earliest_grueneTonneAltpapier = e.begin;
-		if ("Leichtverpackung" in e.name):
-			if (e.begin < earliest_grueneTonneLeichtverpackungen):
-				earliest_grueneTonneLeichtverpackungen = e.begin;
 
-print ("Altpapier            {}".format(earliest_grueneTonneAltpapier.humanize()));
-print ("BETty                {}".format(earliest_betty.humanize()));
-print ("Leichtverpackungen   {}".format(earliest_grueneTonneLeichtverpackungen.humanize()));
-print ("Restmüll             {}".format(earliest_restmuell.humanize()));
+		for i in range(0, len(typDefinitionen)-1):
+			if (typDefinitionen[i].name in e.name):
+				typDefinitionen[i].neuesDatum(e.begin)
+print("Die nächsten Abfuhrtermine")
+print("--------------------------\n")
+
+for i in range(0,len(typDefinitionen)-1):
+	if (typDefinitionen[i].everChanged == True):
+		print (typDefinitionen[i].name.ljust(maxLength + 3," ")+typDefinitionen[i].datum.humanize())
 

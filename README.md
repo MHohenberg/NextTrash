@@ -1,6 +1,6 @@
 # NextTrash
 
-Ein kleines Kommandozeilen-Tool, das schnell die nächsten Abfuhrtermine anzeigt.
+Ein kleines Kommandozeilen-Tool, das schnell die nächsten Abfuhrtermine anzeigt - nützlich als permanenter Reminder.
 
 Das Tool zieht sich die Daten aus den ICS-Dateien, die viele Abfallwirtschaftsunternehmen auf ihren Webseiten anbieten.
 
