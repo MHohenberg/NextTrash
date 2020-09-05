@@ -59,13 +59,13 @@ c = Calendar(icscontents)
 for e in c.events:
 	if (e.begin > arrow.utcnow()):
 
-		for i in range(0, len(typDefinitionen)-1):
+		for i in range(0, len(typDefinitionen)):
 			if (typDefinitionen[i].name in e.name):
 				typDefinitionen[i].neuesDatum(e.begin)
 print("Die nächsten Abfuhrtermine")
 print("--------------------------\n")
 
-for i in range(0,len(typDefinitionen)-1):
+for i in range(0,len(typDefinitionen)):
 	if (typDefinitionen[i].everChanged == True):
 		print (typDefinitionen[i].name.ljust(maxLength + 3," ")+typDefinitionen[i].datum.humanize())
 
