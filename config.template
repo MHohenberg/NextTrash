@@ -1,2 +1,5 @@
+[general]
+use_config=Abfallwirtschaft_Hohenlohekreis
+
 [Abfallwirtschaft_Hohenlohekreis]
 types=Restmüll,BETty,Christbaum,Restmülltonne,Leichtverpackungen,Altpapier

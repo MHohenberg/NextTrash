@@ -41,7 +41,10 @@ config.read(configdir+"/config.ini")
 maxLength = 0
 
 typDefinitionen = []
-for typdef in config['Abfallwirtschaft_Hohenlohekreis']['types'].split(','):
+
+use_config = config['general']['use_config']
+
+for typdef in config[use_config]['types'].split(','):
 	if (len(typdef) > maxLength):
 		maxLength = len(typdef)
 	typDefinitionen.append(AbfallTyp(typdef));
