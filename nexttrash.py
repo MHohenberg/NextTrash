@@ -40,14 +40,14 @@ config = configparser.ConfigParser()
 config.read(configdir+"/config.ini")
 maxLength = 0
 
-typDefinitionen = []
+termine = []
 
 use_config = config['general']['use_config']
 
 for typdef in config[use_config]['types'].split(','):
 	if (len(typdef) > maxLength):
 		maxLength = len(typdef)
-	typDefinitionen.append(AbfallTyp(typdef));
+	termine.append(AbfallTyp(typdef));
 
 present = arrow.utcnow()
 icsfile = open(configdir+"/termine.ics")
@@ -58,14 +58,14 @@ c = Calendar(icscontents)
 
 for e in c.events:
 	if (e.begin > arrow.utcnow()):
+		for i in range(0, len(termine)):
+			if (termine[i].name in e.name):
+				termine[i].neuesDatum(e.begin)
 
-		for i in range(0, len(typDefinitionen)):
-			if (typDefinitionen[i].name in e.name):
-				typDefinitionen[i].neuesDatum(e.begin)
 print("Die nächsten Abfuhrtermine")
 print("--------------------------\n")
 
-for i in range(0,len(typDefinitionen)):
-	if (typDefinitionen[i].everChanged == True):
-		print (typDefinitionen[i].name.ljust(maxLength + 3," ")+typDefinitionen[i].datum.humanize())
-
+for i in range(0,len(termine)):
+	if (termine[i].everChanged == True):
+		print (termine[i].name.ljust(maxLength + 3," ")+termine[i].datum.humanize()+" ("+termine[i].datum.format("MMM-DD")+")")
+print("")
