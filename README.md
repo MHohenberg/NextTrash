@@ -94,7 +94,7 @@ Funktioniert momentan **nicht** mit:
 3. Verschiebe deine ICS-Datei nach ~/.nexttrash/termine.ics
 4. Bearbeiter ~/.nexttrash/config.ini und ersetze den String der use_config mit der Config, die für dich passt
 
-## Lizenz
+# Lizenz
 
     Copyright (C) 2020 Martin Hohenberg <me@martinhohenberg.de>
 
@@ -110,3 +110,6 @@ Funktioniert momentan **nicht** mit:
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+## external work
+Landkreiskarte basiert auf der LK-Karte von TUBS und Yuwash bei [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Landkreise,_Kreise_und_kreisfreie_Städte_in_Deutschland_2011-09-04.svg)
