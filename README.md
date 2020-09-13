@@ -10,17 +10,17 @@ Das Tool zieht sich die Daten aus den ICS-Dateien, die viele Abfallwirtschaftsun
 
 Funktioniert mit 
 
+* ASF Freiburg ([ICS-Generator](https://www.abfallwirtschaft-freiburg.de/de/private_haushalte/abfuhrtermine.php))
 * AVL Ludwigsburg ([ICS-Download]())
-* Barnimer Dienstleistungsgesellschaft ([ICS-Generator](https://www.kw-bdg-barnim.de/service/abfuhrtermine/entsorgungstermine.html))
-* Bremer Stadtreinigung ([ICS-Generator](https://www.die-bremer-stadtreinigung.de/privatkunden/entsorgung/ihr_bremer_abfallkalender-23080))
-* BSR Berlin ([ICS-Generator](https://www.bsr.de/abfuhrkalender-20520.php))
 * AWB Landkreis Göppingen ([ICS-Generator](https://www.awb-gp.de/termine/abfuhrtermine/))
 * AWG Bassum ([ICS-Generator](https://www.awg-bassum.de/abfuhrkalender.html))
 * AWM München ([ICS-Generator](https://www.awm-muenchen.de/index/abfuhrkalender.html))
-* ASF Freiburg ([ICS-Generator](https://www.abfallwirtschaft-freiburg.de/de/private_haushalte/abfuhrtermine.php))
 * Abfallwirtschaft Breisgau-Hochschwarzwald ([ICS-Download](https://www.breisgau-hochschwarzwald.de/pb/Breisgau-Hochschwarzwald/Start/Service+_+Verwaltung/Abfallwirtschaft.html))
 * Abfallwirtschaft Hohenlohekreis ([ICS-Generator](https://www.abfallwirtschaft-hohenlohekreis.de/infos-beratung/termine-leerungen))
 * Abfallwirtschaft Ortenaukreis ([ICS-Generator](https://www.abfallwirtschaft-ortenaukreis.de/abfallkalender-abfuhrtermine/abfuhrkalender-strauchgut-und-sperrmuelltermine-2020/))
+* BSR Berlin ([ICS-Generator](https://www.bsr.de/abfuhrkalender-20520.php))
+* Barnimer Dienstleistungsgesellschaft ([ICS-Generator](https://www.kw-bdg-barnim.de/service/abfuhrtermine/entsorgungstermine.html))
+* Bremer Stadtreinigung ([ICS-Generator](https://www.die-bremer-stadtreinigung.de/privatkunden/entsorgung/ihr_bremer_abfallkalender-23080))
 * Entsorgungsbetrieb Märkisch-Oberland ([https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html](https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html))
 * Entsorgungsgesellschaft Görlitz-Löbau-Zittau mbH ([ICS-Generator](https://www.abfall-eglz.de/abfallkalender.0.html))
 * GOA Ostalbkreis ([ICS-Generator](https://www.goa-online.de/privat/abfuhrkalender/))
