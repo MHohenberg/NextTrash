@@ -1,8 +1,14 @@
 [general]
 use_config=Abfallwirtschaft_Hohenlohekreis
 
+[Barnimer_Dienstleistungsgesellschaft]
+types=1.100 l,Hausmüll,Biomüll,Gelber Sack,Papier
+
 [BSR_Berlin]
 types=Hausmüll,Wertstoffe,Biogut,Laub- und Gartentonne
+
+[Bremer_Stadtreinigung]
+types=Restmüll / Bioabfall,Papier / Gelber Sack
 
 [Stadtreinigung_Hamburg]
 types=Restmülltonne,Wertstofftonne,Laubsäcke
