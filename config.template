@@ -4,6 +4,10 @@ use_config=Abfallwirtschaft_Hohenlohekreis
 [AWN_Neckar_Odenwald_Kreis]
 types=Altholz,Altpapier,Bioenergietonne,Grüngut,Gelbe Verpackungstonne,Schadstoffe,Restmüll
 
+[Stadt_Heidelberg]
+types=Bioabfall,Gelber Sack,Papiermüll,Restmüll,Weihnachts-<br/>baumabholung
+
+
 [ASG_Wesel]
 types=Bioabfall,Gelber Sack / Gelbe Tonne,Grünschnitt,Papier,Restmüll,Schadstoffmobil
 
