@@ -20,6 +20,7 @@ Funktioniert mit
 * Abfallwirtschaft Ortenaukreis ([ICS-Generator](https://www.abfallwirtschaft-ortenaukreis.de/abfallkalender-abfuhrtermine/abfuhrkalender-strauchgut-und-sperrmuelltermine-2020/))
 * Entsorgungsbetrieb Märkisch-Oberland ([https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html](https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html))
 * Entsorgungsgesellschaft Görlitz-Löbau-Zittau mbH ([ICS-Generator](https://www.abfall-eglz.de/abfallkalender.0.html))
+* GOA Ostalbkreis ([ICS-Generator](https://www.goa-online.de/privat/abfuhrkalender/))
 * Landkreis Heilbronn ([ICS-Generator](http://www.landkreis-heilbronn.de/abfallkalender.7005.htm))
 * Landkreis Oldenburg ([ICS-Generator](https://www.oldenburg-kreis.de/portal/seiten/abfallkalender-online-900000291-21700.html))
 * Landkreis Schwäbisch Hall ([ICS-Generator](https://www.lrasha.de/de/buergerservice/abfallwirtschaft/abfallkalender))

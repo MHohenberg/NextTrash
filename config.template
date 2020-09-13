@@ -28,6 +28,9 @@ types=Bioabfall,Papiertonne,Restmüll,Schadstoffe
 [Stadt_Oldenburg]
 types=Restabfall,Gelber Sack,Bioabfall,Altpapier,Sommerbiotonne
 
+[GOA_Ostalbkreis]
+types=Bioabfall,Gelber Sack,Blaue Tonne,Problemstoffmobil,Christbaumabfuhr,Restmüll
+
 [Landkreis_Oldenburg]
 types=Restabfall 2-wö,Restabfall 4-wö,Restabfall 8-wö,Bioabfall 2-wö,Wertstoffsack,Problemstoffsammlung
 
