@@ -101,5 +101,21 @@ types=Gelber Sack,Mobile Schadstoffsammlung,Papiertonne,Restmülltonne 14-tägli
 [Landkreis_Nordwestmecklenburg]
 types=Biotonne,Gelbe Tonne,Restabfalltonne,Schadstoffmobil
 
+[KAV_Niederlausitz]
+types=Hausmüll,Gelbe Tonne,Papier / Pappe,Weihnachtsbaum,Schadstoffmobil,Laubsack
+
+[FES_Frankfurt]
+types=FES Altpapier,FES Bioabfall,FES Leichtverpackungen,FES Restabfall wöchentliche Leerung
+
+[EVA_Abfallentsorgung]
+types=Biomüll,Gelber Sack,Papiersammlung,Restmüll,Schadstoffsammlung (Giftmobil)
+
 [Landkreis_Schwaebisch_Hall]
 types=Bio- und Restmüllabfuhr,Gelbe Säcke,Papiertonne
+
+[Landkreis_Wittenberg]
+types=Leichtverpackungen,Biomüll,Papiermüll,Restmüll
+
+[Landkreis_Garmisch_Partenkirchen]
+types=Biomüll,Gelber Sack,Papiersammlung,Restmüll,Schadstoffsammlung (Giftmobil)
+

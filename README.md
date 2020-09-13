@@ -26,10 +26,14 @@ Funktioniert mit
 | BSR Berlin | [ICS-Generator](https://www.bsr.de/abfuhrkalender-20520.php) | BSR_Berlin|
 | Barnimer Dienstleistungsgesellschaft | [ICS-Generator](https://www.kw-bdg-barnim.de/service/abfuhrtermine/entsorgungstermine.html) | Barnimer_Dienstleistungsgesellschaft|
 | Bremer Stadtreinigung | [ICS-Generator](https://www.die-bremer-stadtreinigung.de/privatkunden/entsorgung/ihr_bremer_abfallkalender-23080) | Bremer_Stadtreinigung|
+| EVA Abfallentsorgung | [ICS-Generator](https://www.eva-abfallentsorgung.de/abfuhrkalender/afktools.php?action=build_calendar) | EVA_Abfallentsorgung | 
 | Entsorgungsbetrieb Märkisch-Oderland | [ICS-Generator](https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html) | Entsorgungsbetrieb_Maerkisch_Oderland|
 | Entsorgungsgesellschaft Görlitz-Löbau-Zittau mbH | [ICS-Generator](https://www.abfall-eglz.de/abfallkalender.0.html) | Entsorgungsgesellschaft_Görlitz_Löbau_Zittau|
+| FES Frankfurt / Main | [ICS-Generator](https://www.fes-frankfurt.de/leistungen/abfallkalender/) | FES_Frankfurt|
 | GOA Ostalbkreis | [ICS-Generator](https://www.goa-online.de/privat/abfuhrkalender/) | GOA_Ostalbkreis|
 | KWU Entsorgung Oder-Spree | [ICS-Generator](https://www.kwu-entsorgung.de/?page_id=337) | KWU_Oder_Spree |
+| Kommunaler Abfallentsorgungsverband Niederlausitz | [ICS-Generator](https://www.kaev.de/Info-und-Service/Tourenplan/Tourenplan-Abfalltermine.html) | KAV_Niederlausitz | 
+| Landkreis Garmisch-Partenkirchen | [](https://abfuhrkalender.lkr-gap.de/webapps/WasteManagementGarmisch/WasteManagementServlet) | Landkreis_Garmisch_Partenkirchen |
 | Landkreis Heilbronn | [ICS-Generator](http://www.landkreis-heilbronn.de/abfallkalender.7005.htm) | Landkreis_Heilbronn|
 | Landkreis Ludwigslust-Parchim | [ICS-Generator](https://www.kreis-lup.de/leben-im-landkreis/verkehr-ordnung-sicherheit/abfallwirtschaft/abfallkalender/) | Landkreis_Ludwigslust_Parchim|
 | Landkreis Mecklenburgische Seenplatte | [ICS-Generator](https://www.lk-mecklenburgische-seenplatte.de/Angebote/Abfall-Müll/Abfuhrkalender-2020/index.php) | Landkreis_Mecklenburgische_Seenplatte|
@@ -39,14 +43,14 @@ Funktioniert mit
 | Landkreis Prignitz | [ICS-Generator](https://www.landkreis-prignitz.de/de/wirtschaft/Abfallkalender_neu/abfallkalender.php) | Landkreis_Prignitz |
 | Landkreis Rostock | [ICS-Generator](https://www.abfall-lro.de/de/abfuhrtermine/index.php/) |Landkreis_Rostock |
 | Landkreis Schwäbisch Hall | [ICS-Generator](https://www.lrasha.de/de/buergerservice/abfallwirtschaft/abfallkalender) | Landkreis_Schwaebisch_Hall|
+| Landkreis Wittenberg | [ICS-Generator](https://www.landkreis-wittenberg.de/de/abfallkalender-online.html) | Landkreis_Wittenberg |
 | Main-Tauber-Kreis | [ICS-Generator](https://www.main-tauber-kreis.de/Landratsamt/Service/Abfallwirtschaft/Abfallkalender) | Main_Tauber_Kreis|
 | Stadt Oldenburg | [ICS-Generator](https://services.oldenburg.de/index.php?id=45&tx_citkoabfall_abfallkalender[action]=formSimple&tx_citkoabfall_abfallkalender[controller]=Frontend&cHash=6d14b5e4e24d4c9e4dc936e938c81581) | Stadt_Oldenburg|
-| Stadtentsorgung Rostock | [ICS-iGenerator](https://www.stadtentsorgung-rostock.de/service/ekalend/1216) |Stadtentsorgung_Rostock |
+| Stadtentsorgung Rostock | [ICS-Generator](https://www.stadtentsorgung-rostock.de/service/ekalend/1216) |Stadtentsorgung_Rostock |
 | Stadtreinigung Hamburg | [ICS-Generator](https://www.stadtreinigung.hamburg/privatkunden/abfuhrkalender/index.html) | Stadtreinigung_Hamburg|
 | Stadtwirtschaftliche Dienstleistungen Schwerin | [ICS-Download](https://www.sds-schwerin.de/abfall-strassenreinigung/entsorgungskalender/) | Stadtwirtschaftliche_Dienstleistungen_Schwerin|
 | TBZ Flensburg| [ICS-Generator](https://www.tbz-flensburg.de/Abfallwirtschaft/Online-Abfallkalender/) | TBZ_Flensburg |
 | Ver- und Entsorgungsgesellschaft des Landkreises Vorpommern-Greifswald | [ICS-Generator](https://www.vevg-karlsburg.de/online-abfallkalender-ovp.html) | Landkreis_Vorpommern_Greifswald|
-
 
  ... und vielleicht auch bei Dir. Wenn Deine Abfallbetriebe ICS-Dateien zur Verfügung stellen, informiere mich.
 
@@ -55,6 +59,7 @@ Funktioniert momentan **nicht** mit:
 * AWU Oberhavel (kein ICS-Download)
 * Abfallwirtschaft Stuttgart (kein ICS-Download)
 * Landkreis Jerichower Land (kein ICS-Download)
+* Stadt Garmisch-Partenkirchen (kein ICS-Download)
 * Stadt Heilbronn (kein ICS-Download)
 * Uckermärkische Dienstleistungsgesellschaft (kein ICS-Download)
 
