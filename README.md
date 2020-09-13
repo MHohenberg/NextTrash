@@ -10,8 +10,8 @@ Das Tool zieht sich die Daten aus den ICS-Dateien, die viele Abfallwirtschaftsun
 
 Funktioniert mit 
 
-| Entsorgungsbetrieb | Link | Config-Kürzel |
-|--------------------|------|---------------|
+| Entsorgungsbetrieb     | Link     | Config-Kürzel     |
+|:-----------------------|:---------|:------------------|
 | ASF Freiburg | ([ICS-Generator](https://www.abfallwirtschaft-freiburg.de/de/private_haushalte/abfuhrtermine.php)) | |
 | AVL Ludwigsburg | ([ICS-Download](https://www.avl-ludwigsburg.de/privatkunden/termine/abfallkalender/)) | |
 | AWB Landkreis Göppingen | ([ICS-Generator](https://www.awb-gp.de/termine/abfuhrtermine/)) | |
