@@ -32,6 +32,7 @@ Funktioniert mit
 | BSR Berlin | [ICS-Generator](https://www.bsr.de/abfuhrkalender-20520.php) | BSR_Berlin|
 | Barnimer Dienstleistungsgesellschaft | [ICS-Generator](https://www.kw-bdg-barnim.de/service/abfuhrtermine/entsorgungstermine.html) | Barnimer_Dienstleistungsgesellschaft|
 | Bremer Stadtreinigung | [ICS-Generator](https://www.die-bremer-stadtreinigung.de/privatkunden/entsorgung/ihr_bremer_abfallkalender-23080) | Bremer_Stadtreinigung|
+| EBU Ulm | [ICS-Generator](https://www.ebu-ulm.de/abfall/abfuhrtermine.php)|EBU_Ulm|
 | EVA Abfallentsorgung | [ICS-Generator](https://www.eva-abfallentsorgung.de/abfuhrkalender/afktools.php?action=build_calendar) | EVA_Abfallentsorgung | 
 | Entsorgungsbetrieb Märkisch-Oderland | [ICS-Generator](https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html) | Entsorgungsbetrieb_Maerkisch_Oderland|
 | Entsorgungsbetriebe Konstanz| [ICS-Generator](https://www.konstanz.de/entsorgungsbetriebe/abfuhrtermine/online-abfuhrkalender)|Entsorgungsbetriebe_Konstanz|
@@ -64,6 +65,7 @@ Funktioniert mit
 | TBZ Flensburg| [ICS-Generator](https://www.tbz-flensburg.de/Abfallwirtschaft/Online-Abfallkalender/) | TBZ_Flensburg |
 | Technische Betriebe Reutlingen| [ICS-Generator](https://www.tbr-reutlingen.de/entsorgungskalender)| Technische_Betriebe_Reutlingen|
 | Ver- und Entsorgungsgesellschaft des Landkreises Vorpommern-Greifswald | [ICS-Generator](https://www.vevg-karlsburg.de/online-abfallkalender-ovp.html) | Landkreis_Vorpommern_Greifswald|
+|Kreisabfallwirtschaftsbetrieb Heidenheim| [ICS-Generator](https://www.abfall-hdh.de/internet/inhalt/inhalt.php?seite=98)| KABW_Heidenheim|
 
  ... und vielleicht auch bei Dir. Wenn Deine Abfallbetriebe ICS-Dateien zur Verfügung stellen, informiere mich.
 

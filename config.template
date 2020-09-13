@@ -7,8 +7,14 @@ types=Altholz,Altpapier,Bioenergietonne,Grüngut,Gelbe Verpackungstonne,Schadsto
 [ASG_Wesel]
 types=Bioabfall,Gelber Sack / Gelbe Tonne,Grünschnitt,Papier,Restmüll,Schadstoffmobil
 
+[KABW_Heidenheim]
+types=Altpapier,Biomüll,Gartenabfälle,Gelber Sack,Papiertonne,Restmüll 
+
 [Stadt_Mannheim]
 types=Biotonne,Christbäume,Grünabfälle,Wertstofftonne
+
+[EBU_Ulm]
+types=Altpapier,Biotonne,Blaue Tonne,Christbaumabfuhr,Gelber Sack
 
 [Stadtentsorgung_Rostock]
 types=Blaue Tonne,Gelbe Tonne,Schwarze Hausmülltonne
