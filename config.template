@@ -28,7 +28,10 @@ types=Bioabfall,Papiertonne,Restmüll,Schadstoffe
 [Stadt_Oldenburg]
 types=Restabfall,Gelber Sack,Bioabfall,Altpapier,Sommerbiotonne
 
-[Görlitz_Löbau_Zittau]
+[Entsorgungsbetrieb_Maerkisch_Oderland]
+types=Grünabfall,Biotonne,Gelber Sack,Papiercontainer,Papiertonne,Hausmüllbehälter,Schadstoffmobil
+
+[Entsorgungsgesellschaft_Görlitz_Löbau_Zittau]
 types=Restmüll,Biomüll,Gelbe Tone,Blaue Tonne,Schadstoffe
 
 [AWG_Bassum]
