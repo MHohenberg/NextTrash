@@ -12,3 +12,12 @@ types=Bioabfall,Papiertonne,Restmüll,Schadstoffe
 
 [Stadt Oldenburg]
 types=Restabfall,Gelber Sack,Bioabfall,Altpapier,Sommerbiotonne
+
+[Görlitz-Löbau-Zittau]
+types=Restmüll,Biomüll,Gelbe Tone,Blaue Tonne,Schadstoffe
+
+[AWG Bassum]
+types=Verpackungstonne,Bioabfall,Restabfall
+
+[AWB Landkreis Göppingen]
+types=Bioabfall,Hausmüllcontainer,Hausmüll (2-wöchentlich),Hausmüll (4-wöchentlich),Papiertonne,Gelber Sack,Grüngutabfall
