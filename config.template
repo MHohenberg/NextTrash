@@ -4,6 +4,8 @@ use_config=Abfallwirtschaft_Hohenlohekreis
 [ASG_Wesel]
 types=Bioabfall,Gelber Sack / Gelbe Tonne,Grünschnitt,Papier,Restmüll,Schadstoffmobil
 
+[Stadt_Mannheim]
+types=Biotonne,Christbäume,Grünabfälle,Wertstofftonne
 
 [Stadtentsorgung_Rostock]
 types=Blaue Tonne,Gelbe Tonne,Schwarze Hausmülltonne
@@ -47,6 +49,11 @@ types=Leerung der gelben Säcke,Leerung der Papiertonne (ALBA),Leerung der Papie
 [Abfallwirtschaft_Vorpommern_Ruegen]
 types=Biomüll,Gelber Sack,Papier,Restmüll,Restmüll monatlich,Tannenbaum
 
+[Entsorgungsbetriebe_Konstanz]
+types=Altpapier,Biomüll,Gelber Sack,Restmüll
+
+[Technische_Betriebe_Reutlingen]
+types=Altpapier,Biomüll,Gelber Sack,Restmüll,Restmüll 4-wöchentlich
 
 [Barnimer_Dienstleistungsgesellschaft]
 types=1.100 l,Hausmüll,Biomüll,Gelber Sack,Papier
