@@ -33,6 +33,7 @@ Funktioniert momentan **nicht** mit:
 
 * Landkreis Jerichower Land (kein ICS-Download)
 * Stadt Heilbronn (kein ICS-Download)
+* Abfallwirtschaft Stuttgart (kein ICS-Download)
 
 ## Installation
 
