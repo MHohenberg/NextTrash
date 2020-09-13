@@ -4,6 +4,9 @@ use_config=Abfallwirtschaft_Hohenlohekreis
 [Abfallwirtschaft_Hohenlohekreis]
 types=Restmüll,BETty,Christbaum,Leichtverpackungen,Altpapier
 
+[AWM_Muenchen]
+types=Restmülltonne,Papiertonne,Biotonne
+
 [Abfallwirtschaft_Ortenaukreis]
 types=Gelber Sack,Graue Tone,Grüne Tonne,Strauchgutabfuhr,Kreisputzete,Sperrmüll,Problemabfall
 

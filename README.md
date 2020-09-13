@@ -8,6 +8,7 @@ Funktioniert mit
 
 * AWB Landkreis Göppingen ([ICS-Generator](https://www.awb-gp.de/termine/abfuhrtermine/))
 * AWG Bassum ([ICS-Generator](https://www.awg-bassum.de/abfuhrkalender.html))
+* AWM München ([ICS-Generator](https://www.awm-muenchen.de/index/abfuhrkalender.html))
 * Abfallwirtschaft Hohenlohekreis ([ICS-Generator](https://www.abfallwirtschaft-hohenlohekreis.de/infos-beratung/termine-leerungen))
 * Abfallwirtschaft Ortenaukreis ([ICS-Generator](https://www.abfallwirtschaft-ortenaukreis.de/abfallkalender-abfuhrtermine/abfuhrkalender-strauchgut-und-sperrmuelltermine-2020/))
 * Entsorgungsgesellschaft Görlitz-Löbau-Zittau mbH ([ICS-Generator](https://www.abfall-eglz.de/abfallkalender.0.html))
