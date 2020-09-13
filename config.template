@@ -1,6 +1,9 @@
 [general]
 use_config=Abfallwirtschaft_Hohenlohekreis
 
+[BSR_Berlin]
+types=Hausmüll,Wertstoffe,Biogut,Laub- und Gartentonne
+
 [Abfallwirtschaft_Hohenlohekreis]
 types=Restmüll,BETty,Christbaum,Leichtverpackungen,Altpapier
 

@@ -6,6 +6,7 @@ Das Tool zieht sich die Daten aus den ICS-Dateien, die viele Abfallwirtschaftsun
 
 Funktioniert mit 
 
+* BSR Berlin ([ICS-Generator](https://www.bsr.de/abfuhrkalender-20520.php))
 * AWB Landkreis Göppingen ([ICS-Generator](https://www.awb-gp.de/termine/abfuhrtermine/))
 * AWG Bassum ([ICS-Generator](https://www.awg-bassum.de/abfuhrkalender.html))
 * AWM München ([ICS-Generator](https://www.awm-muenchen.de/index/abfuhrkalender.html))
