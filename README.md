@@ -25,6 +25,10 @@ Funktioniert mit
 * Stadtreinigung Hamburg ([ICS-Generator](https://www.stadtreinigung.hamburg/privatkunden/abfuhrkalender/index.html))
 * ... und vielleicht auch bei Dir. Wenn Deine Abfallbetriebe ICS-Dateien zur Verfügung stellen, informiere mich.
 
+Funktioniert momentan **nicht** mit:
+
+* Landkreis Jerichower Land (kein ICS-Download)
+
 
 ## Installation
 
