@@ -62,6 +62,7 @@ Funktioniert momentan **nicht** mit:
 
 * AWU Oberhavel (kein ICS-Download)
 * Abfallwirtschaft Stuttgart (kein ICS-Download)
+* Landkreis Esslingen (kein ICS-Download)
 * Landkreis Jerichower Land (kein ICS-Download)
 * Stadt Garmisch-Partenkirchen (kein ICS-Download)
 * Stadt Heilbronn (kein ICS-Download)
