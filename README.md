@@ -48,13 +48,18 @@ Funktioniert mit
 | Main-Tauber-Kreis | [ICS-Generator](https://www.main-tauber-kreis.de/Landratsamt/Service/Abfallwirtschaft/Abfallkalender) | Main_Tauber_Kreis|
 | RSAG Rhein-Sieg-Kreis | [ICS-Generator](https://www.rsag.de/abfallkalender/abfuhrtermine)| RSAG |
 | Stadt Oldenburg | [ICS-Generator](https://services.oldenburg.de/index.php?id=45&tx_citkoabfall_abfallkalender[action]=formSimple&tx_citkoabfall_abfallkalender[controller]=Frontend&cHash=6d14b5e4e24d4c9e4dc936e938c81581) | Stadt_Oldenburg|
+| Entsorgungsgesellschaft Steinfurt | [ICS-Generator](https://www.egst.de/de/abfallabholung/) | ESTG_Kreis_Steinfurt |
 | Stadtentsorgung Rostock | [ICS-Generator](https://www.stadtentsorgung-rostock.de/service/ekalend/1216) |Stadtentsorgung_Rostock |
 | Stadtreinigung Hamburg | [ICS-Generator](https://www.stadtreinigung.hamburg/privatkunden/abfuhrkalender/index.html) | Stadtreinigung_Hamburg|
 | Stadtwirtschaftliche Dienstleistungen Schwerin | [ICS-Download](https://www.sds-schwerin.de/abfall-strassenreinigung/entsorgungskalender/) | Stadtwirtschaftliche_Dienstleistungen_Schwerin|
 | Städteregion Aachen | [ICS-Generator](https://serviceportal.aachen.de/abfallnavi) | Stadt_Aachen | 
 | TBZ Flensburg| [ICS-Generator](https://www.tbz-flensburg.de/Abfallwirtschaft/Online-Abfallkalender/) | TBZ_Flensburg |
+| AWB Landkreis Karlsruhe| [ICS-Generator](https://www.awb-landkreis-karlsruhe.de/WasteManagementKarlsruheHaushalte/WasteManagementServlet?SubmitAction=wasteDisposalServices)|ABW_Landkreis_Karlsruhe|
+| Landkreis Böblingen | [ICS-Generator](https://www.lrabb.de/,Lde/start/Service+_+Verwaltung/Abfuhrtermine.html)|Landkreis_Boeblingen|
+| Abfallwirtschaft Rems-Murr | [ICS-Generator](https://www.abfallwirtschaft-rems-murr.de/generator/abfallkalender_2017.php) | Abfallwirtschaft_Rems_Murr |
+| ASG Wesel | [ICS-Generator](https://www.asg-wesel.de/Abfallkalender_55623.html) | ASG_Wesel |
 | Ver- und Entsorgungsgesellschaft des Landkreises Vorpommern-Greifswald | [ICS-Generator](https://www.vevg-karlsburg.de/online-abfallkalender-ovp.html) | Landkreis_Vorpommern_Greifswald|
-| aha Zweckverband Abfallwirtschaft Region Hannover | [ICS-Generator](https://www.aha-region.de/abholtermine/abfuhrkalender/?L=0) (liefert eine Datei per Abfallart. Bitte Inhalte in eine ICS-Datei zusammenkopieren) | aha_Region_Hannover |
+| Aha Zweckverband Abfallwirtschaft Region Hannover | [ICS-Generator](https://www.aha-region.de/abholtermine/abfuhrkalender/?L=0) (liefert eine Datei per Abfallart. Bitte Inhalte in eine ICS-Datei zusammenkopieren) | aha_Region_Hannover |
 
  ... und vielleicht auch bei Dir. Wenn Deine Abfallbetriebe ICS-Dateien zur Verfügung stellen, informiere mich.
 
@@ -63,7 +68,11 @@ Funktioniert momentan **nicht** mit:
 * AWU Oberhavel (kein ICS-Download)
 * Abfallwirtschaft Stuttgart (kein ICS-Download)
 * Landkreis Esslingen (kein ICS-Download)
+* Rhein-Kreis Neuss (kein ICS-Download)
 * Landkreis Jerichower Land (kein ICS-Download)
+* Rhein-Erft-Kreis (Städte haben individuelle Abfuhrunternehmen, bieten teilweise ICS-Dateien an)
+* Stadt Mettmann (kein ICS-Download)
+* Stadt Karlsruhe (kein ICS-Download)
 * Stadt Garmisch-Partenkirchen (kein ICS-Download)
 * Stadt Heilbronn (kein ICS-Download)
 * Stadt Recklinghausen (kein ICS-Download)
