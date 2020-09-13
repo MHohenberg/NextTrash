@@ -16,6 +16,9 @@ types=Restmülltonne,Wertstofftonne,Laubsäcke
 [Abfallwirtschaft_Hohenlohekreis]
 types=Restmüll,BETty,Christbaum,Leichtverpackungen,Altpapier
 
+[Main_Tauber_Kreis]
+types=Bioabfall,Gelber Sack,Papierabfall,Restabfall wöchentlich,Restabfall 14-täglich,Restabfall 4-wöchentlich 
+
 [AWM_Muenchen]
 types=Restmülltonne,Papiertonne,Biotonne
 
