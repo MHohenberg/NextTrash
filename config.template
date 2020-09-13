@@ -52,5 +52,12 @@ types=Bioabfall,Hausmüllcontainer,Hausmüll (2-wöchentlich),Hausmüll (4-wöch
 [AVL_Ludwigsburg]
 types=Biogut,Flach,Flach 1.100 L,Restmüll,Restmüll 1.100 L,Rund
 
+[ASF_Freiburg]
+types=Biotonne,Christbäume,Grüne Tonne / Gelber Sack,Restmülltonne,Schnittgut
+
+[Abfallwirtschaft_Breisgau_Hochschwarzwald]
+types=Bio,Gelbe Säcke,Hausmüll,Papier,Schadstoffsammlung,Weihnachtsbaumsammlung
+
+
 [Landkreis_Schwaebisch_Hall]
 types=Bio- und Restmüllabfuhr,Gelbe Säcke,Papiertonne

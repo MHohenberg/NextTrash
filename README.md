@@ -17,6 +17,8 @@ Funktioniert mit
 * AWB Landkreis Göppingen ([ICS-Generator](https://www.awb-gp.de/termine/abfuhrtermine/))
 * AWG Bassum ([ICS-Generator](https://www.awg-bassum.de/abfuhrkalender.html))
 * AWM München ([ICS-Generator](https://www.awm-muenchen.de/index/abfuhrkalender.html))
+* ASF Freiburg ([ICS-Generator](https://www.abfallwirtschaft-freiburg.de/de/private_haushalte/abfuhrtermine.php))
+* Abfallwirtschaft Breisgau-Hochschwarzwald ([ICS-Download](https://www.breisgau-hochschwarzwald.de/pb/Breisgau-Hochschwarzwald/Start/Service+_+Verwaltung/Abfallwirtschaft.html))
 * Abfallwirtschaft Hohenlohekreis ([ICS-Generator](https://www.abfallwirtschaft-hohenlohekreis.de/infos-beratung/termine-leerungen))
 * Abfallwirtschaft Ortenaukreis ([ICS-Generator](https://www.abfallwirtschaft-ortenaukreis.de/abfallkalender-abfuhrtermine/abfuhrkalender-strauchgut-und-sperrmuelltermine-2020/))
 * Entsorgungsbetrieb Märkisch-Oberland ([https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html](https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html))
