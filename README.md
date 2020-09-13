@@ -25,6 +25,7 @@ Funktioniert mit
 | AWN Neckar-Odenwald-Kreis| [ICS-Download](https://www.awn-online.de/haushalte/abfuhrtermine) | AWN_Neckar_Odenwald_Kreis |
 | Abfallwirtschaft Breisgau-Hochschwarzwald | [ICS-Download](https://www.breisgau-hochschwarzwald.de/pb/Breisgau-Hochschwarzwald/Start/Service+_+Verwaltung/Abfallwirtschaft.html) | Landkreis_Breisgau_Hochschwarzwald |
 | Abfallwirtschaft Hohenlohekreis | [ICS-Generator](https://www.abfallwirtschaft-hohenlohekreis.de/infos-beratung/termine-leerungen) | Abfallwirtschaft_Hohenlohekreis |
+| Abfallwirtschaft Kreis Freudenstadt | [ICS_Generator](https://www.awb-fds.de/privatkunden/privatkunden-abfallkalender/)|ABW_Kreis_Freudenstadt|
 | Abfallwirtschaft Ortenaukreis | [ICS-Generator](https://www.abfallwirtschaft-ortenaukreis.de/abfallkalender-abfuhrtermine/abfuhrkalender-strauchgut-und-sperrmuelltermine-2020/) | Abfallwirtschaft_Ortenaukreis |
 | Abfallwirtschaft Rems-Murr | [ICS-Generator](https://www.abfallwirtschaft-rems-murr.de/generator/abfallkalender_2017.php) | Abfallwirtschaft_Rems_Murr |
 | Abfallwirtschaft Vorpommern-Rügen | [ICS-Generator](https://www.lk-vr.de/Kreisverwaltung/Abfallwirtschaft/Abfuhrtermine/) | Abfallwirtschaft_Vorpommern_Ruegen|

@@ -1,6 +1,9 @@
 [general]
 use_config=Abfallwirtschaft_Hohenlohekreis
 
+[Abfallwirtschaft_Kreis_Freudenstadt]
+types=Biotonne,Restmüll,Papiertonne,Gelber Sack,Gartenabfälle,Problemmüll,Sperrmüll und Möbelholz,Gewerbetour 14-täglich,Gewerbetour wöchentlich
+
 [AWN_Neckar_Odenwald_Kreis]
 types=Altholz,Altpapier,Bioenergietonne,Grüngut,Gelbe Verpackungstonne,Schadstoffe,Restmüll
 
