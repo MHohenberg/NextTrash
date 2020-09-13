@@ -27,6 +27,7 @@ Funktioniert mit
 * GOA Ostalbkreis ([ICS-Generator](https://www.goa-online.de/privat/abfuhrkalender/))
 * Landkreis Heilbronn ([ICS-Generator](http://www.landkreis-heilbronn.de/abfallkalender.7005.htm))
 * Landkreis Ludwigslust-Parchim ([ICS-Generator](https://www.kreis-lup.de/leben-im-landkreis/verkehr-ordnung-sicherheit/abfallwirtschaft/abfallkalender/))
+* Landkreis Mecklenburgische Seenplatte ([ICS-Generator](https://www.lk-mecklenburgische-seenplatte.de/Angebote/Abfall-Müll/Abfuhrkalender-2020/index.php))
 * Landkreis Nordwestmecklenburg ([ICS-Generator](https://www.nordwestmecklenburg.de/de/abfuhrtermine-nwm.html))
 * Landkreis Oldenburg ([ICS-Generator](https://www.oldenburg-kreis.de/portal/seiten/abfallkalender-online-900000291-21700.html))
 * Landkreis Rostock ([ICS-Generator](https://www.abfall-lro.de/de/abfuhrtermine/index.php/))
@@ -37,7 +38,6 @@ Funktioniert mit
 * Stadtreinigung Hamburg ([ICS-Generator](https://www.stadtreinigung.hamburg/privatkunden/abfuhrkalender/index.html))
 * Stadtwirtschaftliche Dienstleistungen Schwerin ([ICS-Download](https://www.sds-schwerin.de/abfall-strassenreinigung/entsorgungskalender/))
 * Ver- und Entsorgungsgesellschaft des Landkreises Vorpommern/Greifswald ([ICS-Generator](https://www.vevg-karlsburg.de/online-abfallkalender-ovp.html))
-Landkreis Mecklenburgische Seenplatte ([ICS-Generator](https://www.lk-mecklenburgische-seenplatte.de/Angebote/Abfall-Müll/Abfuhrkalender-2020/index.php))
 * ... und vielleicht auch bei Dir. Wenn Deine Abfallbetriebe ICS-Dateien zur Verfügung stellen, informiere mich.
 
 Funktioniert momentan **nicht** mit:
