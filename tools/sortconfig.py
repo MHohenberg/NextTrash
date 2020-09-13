@@ -1,11 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import sys
 
-USAGE = 'USAGE:\n\tsortconfig.py file.ini'
-
 def sort_ini(fname):
-	f = file(fname)
+	f = open(fname)
 	lines = f.readlines()
 	f.close()
 	section = ''
@@ -23,13 +21,12 @@ def sort_ini(fname):
 					sections[section] = [line, ]
 	if sections:
 		sk = sections.keys()
-		sk.sort()
+		sk = sorted(sk)
 		for k in sk:
 			vals = sections[k]
 			vals.sort()
-			print k
-			print '\n'.join(vals)
-			print
+			print(k)
+			print('\n'.join(vals))
+			print("")
 
-else:
-	sort_ini(sys.argv[1])
+sort_ini(sys.argv[1])
