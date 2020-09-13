@@ -4,6 +4,24 @@ use_config=Abfallwirtschaft_Hohenlohekreis
 [Stadtentsorgung_Rostock]
 types=Blaue Tonne,Gelbe Tonne,Schwarze Hausmülltonne
 
+[KWU_Oder_Spree]
+types=Gelber Sack,Papiertonne,Restabfall
+
+[Landkreis_Prignitz]
+types=Hausmüll,Leichtverpackungen (gelber Sack),Papier
+
+[Landkreis_Ostprignitz_Ruppin]
+types=Biotonne,Blaue Tonne,Gelbe Tonne,Grünabfallsammlung,Restmülltonne,Schadstoffmobil,Weihnachtsbaumsammlung
+
+[APM_Niemegk]
+type=Biotonne auf Abruf,Gelber Sack,Grünabfall,Papiertonne 240 l,Restabfall 40 l bis 240 l
+
+[TBZ_Flensburg]
+type=Restabfall wöchentlich,Altpapierbehälter wöchentlich,Restabfall 14-täglich,Bioabfall 14-täglich,Altpapierbehälter 14-täglich,Gelbe Tonne wöchentlich,Gelbe Tonne 14-täglich
+
+[ABH_Havelland]
+type=Gelber Sack,Mülltonne,Papier
+
 [Landkreis_Rostock]
 types=Schwarze Tonne,Blaue Tonne,Grüne Tonne,Gelbe Tone
 
