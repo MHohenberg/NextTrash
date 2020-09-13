@@ -16,6 +16,7 @@ Funktioniert mit
 | APM Niemegk // Landkreis Potsdam-Mittelmark | [ICS-Generator](https://www.apm-niemegk.de/tourenplan-2020-ph) | APM_Niemegk|
 | ASF Freiburg | [ICS-Generator](https://www.abfallwirtschaft-freiburg.de/de/private_haushalte/abfuhrtermine.php) | ASF_Freiburg |
 | AVL Ludwigsburg | [ICS-Download](https://www.avl-ludwigsburg.de/privatkunden/termine/abfallkalender/) | AVL_Ludwigsburg|
+| AVR Rhein-Neckar-Kreis | [ICS-Generator](https://www.avr-kommunal.de/online-service/abfallkalender/) | AVR_Rhein_Neckar_Kreis | 
 | AWB Landkreis Göppingen | [ICS-Generator](https://www.awb-gp.de/termine/abfuhrtermine/) | AWB_Landkreis_Goeppingen|
 | AWG Bassum | [ICS-Generator](https://www.awg-bassum.de/abfuhrkalender.html) | AWG_Bassum|
 | AWM München | [ICS-Generator](https://www.awm-muenchen.de/index/abfuhrkalender.html) | AWM_Muenchen|
@@ -35,7 +36,6 @@ Funktioniert mit
 | Kommunaler Abfallentsorgungsverband Niederlausitz | [ICS-Generator](https://www.kaev.de/Info-und-Service/Tourenplan/Tourenplan-Abfalltermine.html) | KAV_Niederlausitz | 
 | Landkreis Garmisch-Partenkirchen | [ICS-Download](https://abfuhrkalender.lkr-gap.de/webapps/WasteManagementGarmisch/WasteManagementServlet) | Landkreis_Garmisch_Partenkirchen |
 | Landkreis Heilbronn | [ICS-Generator](http://www.landkreis-heilbronn.de/abfallkalender.7005.htm) | Landkreis_Heilbronn|
-| aha Zweckverband Abfallwirtschaft Region Hannover | [ICS-Generator](https://www.aha-region.de/abholtermine/abfuhrkalender/?L=0) (liefert eine Datei per Abfallart. Bitte Inhalte in eine ICS-Datei zusammenkopieren) | aha_Region_Hannover |
 | Landkreis Ludwigslust-Parchim | [ICS-Generator](https://www.kreis-lup.de/leben-im-landkreis/verkehr-ordnung-sicherheit/abfallwirtschaft/abfallkalender/) | Landkreis_Ludwigslust_Parchim|
 | Landkreis Mecklenburgische Seenplatte | [ICS-Generator](https://www.lk-mecklenburgische-seenplatte.de/Angebote/Abfall-Müll/Abfuhrkalender-2020/index.php) | Landkreis_Mecklenburgische_Seenplatte|
 | Landkreis Nordwestmecklenburg | [ICS-Generator](https://www.nordwestmecklenburg.de/de/abfuhrtermine-nwm.html) | Landkreis_Nordwestmecklenburg|
@@ -46,13 +46,15 @@ Funktioniert mit
 | Landkreis Schwäbisch Hall | [ICS-Generator](https://www.lrasha.de/de/buergerservice/abfallwirtschaft/abfallkalender) | Landkreis_Schwaebisch_Hall|
 | Landkreis Wittenberg | [ICS-Generator](https://www.landkreis-wittenberg.de/de/abfallkalender-online.html) | Landkreis_Wittenberg |
 | Main-Tauber-Kreis | [ICS-Generator](https://www.main-tauber-kreis.de/Landratsamt/Service/Abfallwirtschaft/Abfallkalender) | Main_Tauber_Kreis|
+| RSAG Rhein-Sieg-Kreis | [ICS-Generator](https://www.rsag.de/abfallkalender/abfuhrtermine)| RSAG |
 | Stadt Oldenburg | [ICS-Generator](https://services.oldenburg.de/index.php?id=45&tx_citkoabfall_abfallkalender[action]=formSimple&tx_citkoabfall_abfallkalender[controller]=Frontend&cHash=6d14b5e4e24d4c9e4dc936e938c81581) | Stadt_Oldenburg|
 | Stadtentsorgung Rostock | [ICS-Generator](https://www.stadtentsorgung-rostock.de/service/ekalend/1216) |Stadtentsorgung_Rostock |
 | Stadtreinigung Hamburg | [ICS-Generator](https://www.stadtreinigung.hamburg/privatkunden/abfuhrkalender/index.html) | Stadtreinigung_Hamburg|
 | Stadtwirtschaftliche Dienstleistungen Schwerin | [ICS-Download](https://www.sds-schwerin.de/abfall-strassenreinigung/entsorgungskalender/) | Stadtwirtschaftliche_Dienstleistungen_Schwerin|
+| Städteregion Aachen | [ICS-Generator](https://serviceportal.aachen.de/abfallnavi) | Stadt_Aachen | 
 | TBZ Flensburg| [ICS-Generator](https://www.tbz-flensburg.de/Abfallwirtschaft/Online-Abfallkalender/) | TBZ_Flensburg |
-| RSAG Rhein-Sieg-Kreis | [ICS-Generator](https://www.rsag.de/abfallkalender/abfuhrtermine)| RSAG |
 | Ver- und Entsorgungsgesellschaft des Landkreises Vorpommern-Greifswald | [ICS-Generator](https://www.vevg-karlsburg.de/online-abfallkalender-ovp.html) | Landkreis_Vorpommern_Greifswald|
+| aha Zweckverband Abfallwirtschaft Region Hannover | [ICS-Generator](https://www.aha-region.de/abholtermine/abfuhrkalender/?L=0) (liefert eine Datei per Abfallart. Bitte Inhalte in eine ICS-Datei zusammenkopieren) | aha_Region_Hannover |
 
  ... und vielleicht auch bei Dir. Wenn Deine Abfallbetriebe ICS-Dateien zur Verfügung stellen, informiere mich.
 

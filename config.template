@@ -4,6 +4,12 @@ use_config=Abfallwirtschaft_Hohenlohekreis
 [Stadtentsorgung_Rostock]
 types=Blaue Tonne,Gelbe Tonne,Schwarze Hausmülltonne
 
+[Stadt_Aachen]
+types=Bio 2wö,Gelber Sack,Restabfall 2wö
+
+[AVR_Rhein_Neckar_Kreis]
+types=Biomüll (2-/4-Radbehälter 14-täglich),Glasbox,Grüne Tonne plus (2-/4-Radbehälter 14-täglich),Grüne Tonne plus (4-Radbehälter wöchentlich),Grünschnitt,Restmüll (2-/4-Radbehälter 14-täglich),Restmüll (4-Radbehälter wöchentlich),Schadstoffe,Sperrmüll + Altholz
+
 [aha_Region_Hannover]
 types=Restabfall,Papier,Leichtverpackungen
 
