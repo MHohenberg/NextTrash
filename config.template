@@ -4,6 +4,9 @@ use_config=Abfallwirtschaft_Hohenlohekreis
 [Stadtentsorgung_Rostock]
 types=Blaue Tonne,Gelbe Tonne,Schwarze Hausmülltonne
 
+[aha_Region_Hannover]
+types=Restabfall,Papier,Leichtverpackungen
+
 [KWU_Oder_Spree]
 types=Gelber Sack,Papiertonne,Restabfall
 
@@ -115,6 +118,10 @@ types=Bio- und Restmüllabfuhr,Gelbe Säcke,Papiertonne
 
 [Landkreis_Wittenberg]
 types=Leichtverpackungen,Biomüll,Papiermüll,Restmüll
+
+[RSAG]
+types=RSAG Bio-Großbehälter (2-wö.) für Wohnanlagen,RSAG Bio-Großbehälter Regelabfuhr für Wohnanlagen,RSAG Biotonne 2-wö.,RSAG Biotonne Regelabfuhr,RSAG Papier-Großbehälter (2-wö.) für Wohnanlagen,RSAG Papier-Großbehälter (4-wö.) für Wohnanlagen,RSAG Papiertonne 4-wö.,RSAG Restmüll-Großbehälter (2-wö.) für Wohnanlagen,RSAG Restmüll-Großbehälter (4-wö.) für Wohnanlagen,RSAG Restmüll-Großbehälter (wö.) für Wohnanlagen,RSAG Restmülltonne 2-wö.,RSAG Restmülltonne 4-wö.,RSAG Wertstoff-Großbehälter (2-wö.),RSAG Wertstoff-Großbehälter (4-wö.),RSAG Wertstofftonne oder -sack 4-wö.
+
 
 [Landkreis_Garmisch_Partenkirchen]
 types=Biomüll,Gelber Sack,Papiersammlung,Restmüll,Schadstoffsammlung (Giftmobil)
