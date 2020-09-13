@@ -1,5 +1,8 @@
 [general]
-use_config=Abfallwirtschaft_Hohenlohekreis
+use_config=Abfallwirtschaft_Ortenaukreis
 
 [Abfallwirtschaft_Hohenlohekreis]
 types=Restmüll,BETty,Christbaum,Leichtverpackungen,Altpapier
+
+[Abfallwirtschaft_Ortenaukreis]
+types=Gelber Sack,Graue Tone,Grüne Tonne,Strauchgutabfuhr,Kreisputzete,Sperrmüll,Problemabfall

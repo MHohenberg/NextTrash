@@ -6,7 +6,8 @@ Das Tool zieht sich die Daten aus den ICS-Dateien, die viele Abfallwirtschaftsun
 
 Funktioniert mit 
 
-* Abfallwirtschaft Hohenlohekreis (ICS unter https://www.abfallwirtschaft-hohenlohekreis.de/infos-beratung/termine-leerungen)
+* Abfallwirtschaft Hohenlohekreis ([ICS-Generator](https://www.abfallwirtschaft-hohenlohekreis.de/infos-beratung/termine-leerungen))
+* Abfallwirtschaft Ortenaukreis ([ICS-Generator](https://www.abfallwirtschaft-ortenaukreis.de/abfallkalender-abfuhrtermine/abfuhrkalender-strauchgut-und-sperrmuelltermine-2020/))
 
 ## Installation
 
