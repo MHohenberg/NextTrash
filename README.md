@@ -21,6 +21,7 @@ Funktioniert mit
 1. Voraussetzung ist, daß python3 und Make installiert sind
 2. ''make''
 3. Verschiebe deine ICS-Datei nach ~/.nexttrash/termine.ics
+4. Bearbeiter ~/.nexttrash/config.ini und ersetze den String der use_config mit der Config, die für dich passt
 
 ## Lizenz
 

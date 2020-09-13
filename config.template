@@ -10,14 +10,14 @@ types=Gelber Sack,Graue Tone,Grüne Tonne,Strauchgutabfuhr,Kreisputzete,Sperrmü
 [Landkreis_Heilbronn]
 types=Bioabfall,Papiertonne,Restmüll,Schadstoffe
 
-[Stadt Oldenburg]
+[Stadt_Oldenburg]
 types=Restabfall,Gelber Sack,Bioabfall,Altpapier,Sommerbiotonne
 
-[Görlitz-Löbau-Zittau]
+[Görlitz_Löbau_Zittau]
 types=Restmüll,Biomüll,Gelbe Tone,Blaue Tonne,Schadstoffe
 
-[AWG Bassum]
+[AWG_Bassum]
 types=Verpackungstonne,Bioabfall,Restabfall
 
-[AWB Landkreis Göppingen]
+[AWB_Landkreis_Goeppingen]
 types=Bioabfall,Hausmüllcontainer,Hausmüll (2-wöchentlich),Hausmüll (4-wöchentlich),Papiertonne,Gelber Sack,Grüngutabfall
