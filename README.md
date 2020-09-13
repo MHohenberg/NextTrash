@@ -24,7 +24,7 @@ Funktioniert mit
 | BSR Berlin | ([ICS-Generator](https://www.bsr.de/abfuhrkalender-20520.php)) | |
 | Barnimer Dienstleistungsgesellschaft | ([ICS-Generator](https://www.kw-bdg-barnim.de/service/abfuhrtermine/entsorgungstermine.html)) | |
 | Bremer Stadtreinigung | ([ICS-Generator](https://www.die-bremer-stadtreinigung.de/privatkunden/entsorgung/ihr_bremer_abfallkalender-23080)) | |
-| Entsorgungsbetrieb Märkisch-Oberland | ([https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html](https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html)) | |
+| Entsorgungsbetrieb Märkisch-Oberland | ([ICS-Generator](https://www.entsorgungsbetrieb-mol.de/de/tourenplan-20192020.html)) | |
 | Entsorgungsgesellschaft Görlitz-Löbau-Zittau mbH | ([ICS-Generator](https://www.abfall-eglz.de/abfallkalender.0.html)) | |
 | GOA Ostalbkreis | ([ICS-Generator](https://www.goa-online.de/privat/abfuhrkalender/)) | |
 | Landkreis Heilbronn | ([ICS-Generator](http://www.landkreis-heilbronn.de/abfallkalender.7005.htm)) | |
@@ -39,7 +39,9 @@ Funktioniert mit
 | Stadtentsorgung Rostock | ([ICS-iGenerator](https://www.stadtentsorgung-rostock.de/service/ekalend/1216)) | |
 | Stadtreinigung Hamburg | ([ICS-Generator](https://www.stadtreinigung.hamburg/privatkunden/abfuhrkalender/index.html)) | |
 | Stadtwirtschaftliche Dienstleistungen Schwerin | ([ICS-Download](https://www.sds-schwerin.de/abfall-strassenreinigung/entsorgungskalender/)) | |
-| Ver- und Entsorgungsgesellschaft des Landkreises Vorpommern/Greifswald | ([ICS-Generator](https://www.vevg-karlsburg.de/online-abfallkalender-ovp.html)) | |
+| Ver- und Entsorgungsgesellschaft des Landkreises Vorpommern-Greifswald | ([ICS-Generator](https://www.vevg-karlsburg.de/online-abfallkalender-ovp.html)) | |
+
+
  ... und vielleicht auch bei Dir. Wenn Deine Abfallbetriebe ICS-Dateien zur Verfügung stellen, informiere mich.
 
 Funktioniert momentan **nicht** mit:
