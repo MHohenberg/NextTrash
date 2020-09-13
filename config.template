@@ -1,6 +1,22 @@
 [general]
 use_config=Abfallwirtschaft_Hohenlohekreis
 
+[Stadtentsorgung_Rostock]
+types=Blaue Tonne,Gelbe Tonne,Schwarze Hausmülltonne
+
+[Landkreis_Rostock]
+types=Schwarze Tonne,Blaue Tonne,Grüne Tonne,Gelbe Tone
+
+[Stadtwirtschaftliche_Dienstleistungen_Schwerin]
+types=Altpapier und Pappe,Biotonne,Gelber Sack,Restabfall 14-täglich
+
+[Landkreis_Vorpommern_Greifswald]
+types=Leerung der gelben Säcke,Leerung der Papiertonne (ALBA),Leerung der Papiertonne (EGVG mbH),Leerung der Restmülltonne,Mobile Schadstoffsammlung
+
+[Abfallwirtschaft_Vorpommern_Ruegen]
+types=Biomüll,Gelber Sack,Papier,Restmüll,Restmüll monatlich,Tannenbaum
+
+
 [Barnimer_Dienstleistungsgesellschaft]
 types=1.100 l,Hausmüll,Biomüll,Gelber Sack,Papier
 
@@ -43,6 +59,9 @@ types=Grünabfall,Biotonne,Gelber Sack,Papiercontainer,Papiertonne,Hausmüllbeh�
 [Entsorgungsgesellschaft_Görlitz_Löbau_Zittau]
 types=Restmüll,Biomüll,Gelbe Tone,Blaue Tonne,Schadstoffe
 
+[Landkreis_Ludwigslust_Parchim]
+types=Altpapiertonne,Biotonne,Gelbe Wertstoffsäcke,Hausmülltonne,Schadstoffmobil
+
 [AWG_Bassum]
 types=Verpackungstonne,Bioabfall,Restabfall
 
@@ -58,6 +77,11 @@ types=Biotonne,Christbäume,Grüne Tonne / Gelber Sack,Restmülltonne,Schnittgut
 [Abfallwirtschaft_Breisgau_Hochschwarzwald]
 types=Bio,Gelbe Säcke,Hausmüll,Papier,Schadstoffsammlung,Weihnachtsbaumsammlung
 
+[Landkreis_Mecklenburgische_Seenplatte]
+types=Gelber Sack,Mobile Schadstoffsammlung,Papiertonne,Restmülltonne 14-täglichen Rhythmus,Restmülltonne 28-täglichen Rhythmus,Weihnachtsbaum
+
+[Landkreis_Nordwestmecklenburg]
+types=Biotonne,Gelbe Tonne,Restabfalltonne,Schadstoffmobil
 
 [Landkreis_Schwaebisch_Hall]
 types=Bio- und Restmüllabfuhr,Gelbe Säcke,Papiertonne
