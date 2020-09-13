@@ -4,8 +4,12 @@ Ein kleines Kommandozeilen-Tool, das schnell die nächsten Abfuhrtermine anzeigt
 
 Das Tool zieht sich die Daten aus den ICS-Dateien, die viele Abfallwirtschaftsunternehmen auf ihren Webseiten anbieten.
 
+![Aktuelle Abdeckung](./landkreise.svg)
+<img src="./landkreise.svg">
+
 Funktioniert mit 
 
+* Bremer Stadtreinigung ([ICS-Generator](https://www.die-bremer-stadtreinigung.de/privatkunden/entsorgung/ihr_bremer_abfallkalender-23080))
 * BSR Berlin ([ICS-Generator](https://www.bsr.de/abfuhrkalender-20520.php))
 * AWB Landkreis Göppingen ([ICS-Generator](https://www.awb-gp.de/termine/abfuhrtermine/))
 * AWG Bassum ([ICS-Generator](https://www.awg-bassum.de/abfuhrkalender.html))
