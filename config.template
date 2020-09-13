@@ -49,5 +49,8 @@ types=Verpackungstonne,Bioabfall,Restabfall
 [AWB_Landkreis_Goeppingen]
 types=Bioabfall,Hausmüllcontainer,Hausmüll (2-wöchentlich),Hausmüll (4-wöchentlich),Papiertonne,Gelber Sack,Grüngutabfall
 
+[AVL_Ludwigsburg]
+types=Biogut,Flach,Flach 1.100 L,Restmüll,Restmüll 1.100 L,Rund
+
 [Landkreis_Schwaebisch_Hall]
 types=Bio- und Restmüllabfuhr,Gelbe Säcke,Papiertonne

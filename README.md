@@ -10,6 +10,7 @@ Das Tool zieht sich die Daten aus den ICS-Dateien, die viele Abfallwirtschaftsun
 
 Funktioniert mit 
 
+* AVL Ludwigsburg ([ICS-Download]())
 * Barnimer Dienstleistungsgesellschaft ([ICS-Generator](https://www.kw-bdg-barnim.de/service/abfuhrtermine/entsorgungstermine.html))
 * Bremer Stadtreinigung ([ICS-Generator](https://www.die-bremer-stadtreinigung.de/privatkunden/entsorgung/ihr_bremer_abfallkalender-23080))
 * BSR Berlin ([ICS-Generator](https://www.bsr.de/abfuhrkalender-20520.php))
