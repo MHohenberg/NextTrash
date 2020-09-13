@@ -1,6 +1,9 @@
 [general]
 use_config=Abfallwirtschaft_Hohenlohekreis
 
+[AWN_Neckar_Odenwald_Kreis]
+types=Altholz,Altpapier,Bioenergietonne,Grüngut,Gelbe Verpackungstonne,Schadstoffe,Restmüll
+
 [ASG_Wesel]
 types=Bioabfall,Gelber Sack / Gelbe Tonne,Grünschnitt,Papier,Restmüll,Schadstoffmobil
 

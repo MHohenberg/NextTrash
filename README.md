@@ -22,6 +22,7 @@ Funktioniert mit
 | AWB Landkreis Karlsruhe| [ICS-Generator](https://www.awb-landkreis-karlsruhe.de/WasteManagementKarlsruheHaushalte/WasteManagementServlet?SubmitAction=wasteDisposalServices)|ABW_Landkreis_Karlsruhe|
 | AWG Bassum | [ICS-Generator](https://www.awg-bassum.de/abfuhrkalender.html) | AWG_Bassum|
 | AWM München | [ICS-Generator](https://www.awm-muenchen.de/index/abfuhrkalender.html) | AWM_Muenchen|
+| AWN Neckar-Odenwald-Kreis| [ICS-Download](https://www.awn-online.de/haushalte/abfuhrtermine) | AWN_Neckar_Odenwald_Kreis |
 | Abfallwirtschaft Breisgau-Hochschwarzwald | [ICS-Download](https://www.breisgau-hochschwarzwald.de/pb/Breisgau-Hochschwarzwald/Start/Service+_+Verwaltung/Abfallwirtschaft.html) | Landkreis_Breisgau_Hochschwarzwald |
 | Abfallwirtschaft Hohenlohekreis | [ICS-Generator](https://www.abfallwirtschaft-hohenlohekreis.de/infos-beratung/termine-leerungen) | Abfallwirtschaft_Hohenlohekreis |
 | Abfallwirtschaft Ortenaukreis | [ICS-Generator](https://www.abfallwirtschaft-ortenaukreis.de/abfallkalender-abfuhrtermine/abfuhrkalender-strauchgut-und-sperrmuelltermine-2020/) | Abfallwirtschaft_Ortenaukreis |
