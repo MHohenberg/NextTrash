@@ -21,6 +21,7 @@ import sys
 import getopt
 import configparser
 import arrow
+from AbfallTyp import AbfallTyp
 
 configdir = os.path.expanduser('~')+"/.nexttrash"
 config = configparser.ConfigParser()
@@ -55,14 +56,13 @@ for opt, arg in opts:
             sys.exit(5)
 
 #### end Parameter check                                
-    
 
 use_config = config['general']['use_config']
 
 for typdef in config[use_config]['types'].split(','):
-	if (len(typdef) > maxLength):
-		maxLength = len(typdef)
-	termine.append(AbfallTyp(typdef));
+        if (len(typdef) > maxLength):
+                maxLength = len(typdef)
+        termine.append(AbfallTyp(typdef));
 
 present = arrow.utcnow()
 icsfile = open(icsFile)
@@ -72,15 +72,15 @@ icsfile.close()
 c = Calendar(icscontents)
 
 for e in c.events:
-	if (e.begin > reportDate):
-		for i in range(0, len(termine)):
-			if (termine[i].name in e.name):
-				termine[i].neuesDatum(e.begin)
+        if (e.begin > reportDate):
+            for i in range(0, len(termine)):
+                if (termine[i].name in e.name):
+                    termine[i].neuesDatum(e.begin)
 
 print("Die nächsten Abfuhrtermine")
 print("--------------------------\n")
 
 for i in range(0,len(termine)):
-	if (termine[i].everChanged == True):
-		print (termine[i].name.ljust(maxLength + 3," ")+termine[i].datum.humanize()+" ("+termine[i].datum.format("MMM-DD")+")")
+        if (termine[i].everChanged == True):
+                print (termine[i].name.ljust(maxLength + 3," ")+termine[i].datum.humanize()+" ("+termine[i].datum.format("MMM-DD")+")")
 print("")
