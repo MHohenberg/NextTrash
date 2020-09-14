@@ -44,18 +44,24 @@ maxLength = 0
 
 termine = []
 
+icsFile = configdir+"/termine.ics"
 reportDate = arrow.utcnow()
 
 # Parameter-check
 try:
-    opts, args = getopt.getopt(sys.argv[1:],"hi:o:",["date=","help"])
+    opts, args = getopt.getopt(sys.argv[1:],"hi:o:",["date=","help","icsfile="])
 except getopt.GetoptError:
     sys.exit(3)
 
 for opt, arg in opts:
     if opt == '--help':
-        print('nexttrash [--date=<date>] [--help]')
+        print('nexttrash [--date=<date>] [--icsfile=<filename>] [--help]')
         sys.exit()
+    if opt == "--icsfile":
+        if (os.path.isfile(arg) == False):
+            print("No such file "+arg)
+            sys.exit(4)
+        icsFile=arg
     if opt == '--date':
         try:
             reportDate = arrow.get(arg, 'YYYY-MM-DD')
@@ -74,7 +80,7 @@ for typdef in config[use_config]['types'].split(','):
 	termine.append(AbfallTyp(typdef));
 
 present = arrow.utcnow()
-icsfile = open(configdir+"/termine.ics")
+icsfile = open(icsFile)
 icscontents = icsfile.read()
 icsfile.close()
 
