@@ -22,21 +22,6 @@ import getopt
 import configparser
 import arrow
 
-
-class AbfallTyp:
-	name = ""
-	datum = arrow.utcnow().shift(years = 1)
-	everChanged = False
-
-	def __init__(self, name):
-		self.name = name
-
-	def neuesDatum(self, datum):
-		if datum < self.datum:
-			self.everChanged = True
-			self.datum = datum
-
-
 configdir = os.path.expanduser('~')+"/.nexttrash"
 config = configparser.ConfigParser()
 config.read(configdir+"/config.ini")
