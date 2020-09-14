@@ -17,6 +17,8 @@
 
 from ics import Calendar, Event
 import os
+import sys
+import getopt
 import configparser
 import arrow
 
@@ -42,6 +44,28 @@ maxLength = 0
 
 termine = []
 
+reportDate = arrow.utcnow()
+
+# Parameter-check
+try:
+    opts, args = getopt.getopt(sys.argv[1:],"hi:o:",["date=","help"])
+except getopt.GetoptError:
+    sys.exit(3)
+
+for opt, arg in opts:
+    if opt == '--help':
+        print('nexttrash [--date=<date>] [--help]')
+        sys.exit()
+    if opt == '--date':
+        try:
+            reportDate = arrow.get(arg, 'YYYY-MM-DD')
+        except:
+            print("Error in date format. Use YYYY-MM-DD")
+            sys.exit(5)
+
+#### end Parameter check                                
+    
+
 use_config = config['general']['use_config']
 
 for typdef in config[use_config]['types'].split(','):
@@ -57,7 +81,7 @@ icsfile.close()
 c = Calendar(icscontents)
 
 for e in c.events:
-	if (e.begin > arrow.utcnow()):
+	if (e.begin > reportDate):
 		for i in range(0, len(termine)):
 			if (termine[i].name in e.name):
 				termine[i].neuesDatum(e.begin)
