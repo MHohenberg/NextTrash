@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#    Copyright (C) 2020  Martin Hohenberg <me@martinhohenberg.de>
+#    Copyright (C) 2020-2021 Martin Hohenberg <me@martinhohenberg.de>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -70,12 +70,21 @@ icscontents = icsfile.read()
 icsfile.close()
 
 c = Calendar(icscontents)
+calendarHasChanged = False
 
-for e in c.events:
-        if (e.begin > reportDate):
-            for i in range(0, len(termine)):
-                if (termine[i].name in e.name):
-                    termine[i].neuesDatum(e.begin)
+for e in c.events.copy():
+    if (e.begin >= reportDate):
+        for i in range(0, len(termine)):
+            if (termine[i].name in e.name):
+                termine[i].neuesDatum(e.begin)
+    else:
+        calendarHasChanged = True
+        c.events.remove(e)
+
+if calendarHasChanged == True:
+	with open(icsFile, 'w') as new_ics_file:
+		new_ics_file.writelines(c)
+		
 
 print("Die nächsten Abfuhrtermine")
 print("--------------------------\n")
